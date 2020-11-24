@@ -10,4 +10,9 @@ View 2 (Add Stock to Portfolio):
 - Purpose of this view is to add company to the table once you have bought shares in that company. Once you have done the market research in view one, you can add your stock to the table in this view to keep track. 
 - Adds stock to a table 
 
-View 3 (Delete): - Purpose of this view is to delete any company name from the table in view 2
+View 3 (Delete): 
+- Purpose of this view is to delete any company name from the table in view 2
+
+
+Check out my github for code.
+
